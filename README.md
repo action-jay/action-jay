@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @action-jay
 - 👀 I’m interested in making things work together
-- 🌱 I’m currently learning to create modules for foundryvyy
+- 🌱 I’m currently learning to create modules for FoundryVTT
 - 📫 How to reach me: twitter @action_jay
 
 <!---

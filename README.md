@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @action-jay
 - 👀 I’m interested in making things work together
 - 🌱 I’m currently learning to create modules for FoundryVTT
-- 📫 How to reach me: twitter @action_jay
+- 📫 How to reach me: @action_jay@mstdn.ca
 
 <!---
 action-jay/action-jay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
